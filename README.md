@@ -1,1 +1,1 @@
-# datamining-assignment
+# 2024년 2학기 데이터마이닝 공공데이터 분석 과제
